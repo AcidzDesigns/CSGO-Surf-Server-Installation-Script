@@ -1,4 +1,6 @@
 # CSGO-Surf-Server-Installation-Script
+
+#### WARNING THE SCRIPT IS CURRENTLY IN DEVELOPMENTS ####
 CSGO Surf Server Installation Script with ckSurf and UMG Mapchooser
 
 
